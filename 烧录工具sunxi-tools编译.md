@@ -1,5 +1,9 @@
 # 烧录工具 sunxi-tools 编译
 
+```
+TLNR：这篇笔记完整记录了在Windows下结合cygwin64编译sunxi-tools的过程
+```
+
 `sunxi-tools` 是开源社区 [https://linux-sunxi.org/](https://linux-sunxi.org/) 维护的 `fel` 模式芯片操作工具，提供了烧录，启动等功能。
 
 编译步骤比较麻烦

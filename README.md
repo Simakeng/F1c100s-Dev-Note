@@ -16,7 +16,6 @@ Only available in Chinese, no further plan for english translation.
 ## 目录
 
 - [根文件系统编译](根文件系统编译.md)
-- [根文件系统编译](根文件系统编译.md)
 - [配置文件分析](配置文件分析.md)
 - [烧录工具sunxi-tools编译](烧录工具sunxi-tools编译.md)
 - [使用sunxi-tools烧录](使用sunxi-tools烧录.md)

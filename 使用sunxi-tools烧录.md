@@ -1,5 +1,7 @@
 # 使用 sunxi-tools 烧录
-
+```
+TLNR：这篇笔记完整记录了在Windows使用sunxi-tools烧录的过程
+```
 ## 1. Windows 下烧录至spi-flash
 
 众所周知 Windows 是不原生支持`libusb`的，而`sunxi-fel`使用`libusb`和设备通讯，所以需要使用`zadig`模拟。
